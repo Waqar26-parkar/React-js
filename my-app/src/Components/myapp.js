@@ -18,6 +18,7 @@ function MyApp() {
   return (
     <>
       <h1>This is not a bug this is feature</h1>
+      <h2> This is github checkup routine</h2>
 
       <div className="woostify-container">
         <a className="skip-link screen-reader-text" href="#site-navigation">
